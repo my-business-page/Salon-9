@@ -1,0 +1,1 @@
+(()=>{const s=document.createElement('script');s.src='https://raw.githubusercontent.com/my-business-page/Salon-1/main/pitch-v5.js?v=5';s.defer=true;document.head.appendChild(s)})();
